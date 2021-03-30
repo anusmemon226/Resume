@@ -1,8 +1,9 @@
 body{
-    background-color: black;
+    background-color: white;
 }
 .container{
     display: flex;
+    alogn-items: flex-start;
     justify-content: center;
 }
 .image-container{

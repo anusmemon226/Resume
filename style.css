@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: black;
 }
 .container{
     display: flex;
@@ -34,7 +34,7 @@ body{
     background-color: #222;
     padding: 0px 25px;
     width: 410px;
-    height: 650px;
+    height: 680px;
 }
 .head2{
     color: white;
